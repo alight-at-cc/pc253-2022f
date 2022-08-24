@@ -1,5 +1,5 @@
 #
 # Binder requirements file listing necessary packages
 
-numpy==1.21.5
-matplotlib==3.5.1
+numpy
+matplotlib
