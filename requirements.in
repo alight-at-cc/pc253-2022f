@@ -1,5 +1,0 @@
-#
-# Binder requirements file listing necessary packages
-
-numpy
-matplotlib
