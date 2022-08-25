@@ -1,3 +1,4 @@
 numpy
 matplotlib
 jupyterlab_widgets
+jupyter_contrib_nbextensions
