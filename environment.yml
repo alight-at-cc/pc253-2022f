@@ -1,0 +1,10 @@
+#
+# Binder requirements file listing necessary packages
+name: pc253_env
+channels:
+  - conda-forge
+dependencies:
+  -numpy
+  -matplotlib
+
+  
